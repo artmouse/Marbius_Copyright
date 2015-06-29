@@ -1,0 +1,6 @@
+app/code/local/Marbius/Copyright/Helper/Data.php app/code/local/Marbius/Copyright/Helper/Data.php
+app/code/local/Marbius/Copyright/etc/config.xml app/code/local/Marbius/Copyright/etc/config.xml
+app/etc/modules/Marbius_Copyright.xml app/etc/modules/Marbius_Copyright.xml
+app/locale/ru_RU/Marbius_Copyright.csv app/locale/ru_RU/Marbius_Copyright.csv
+app/locale/en_US/Marbius_Copyright.csv app/locale/en_US/Marbius_Copyright.csv
+composer.json composer.json
